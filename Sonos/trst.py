@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-
+#!/home/xsisec/env/bin/activate
+'/usr/bin/env python'
 from soco import SoCo
 my_zone1 = SoCo('192.168.1.62')
 
